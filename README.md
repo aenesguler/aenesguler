@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aenesguler
 - 👀 I’m interested in iOS Developing
 - 📫 How to reach me a.enesglr@gmail.com
+- My Linkedin profile : https://www.linkedin.com/in/abdullahenesguler/
 
 <!---
 aenesguler/aenesguler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
